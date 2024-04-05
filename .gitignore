@@ -1,3 +1,10 @@
 *.jpeg
-*.tif
 inference/
+*.tif
+140610_gigean_4cm_l93_vis.tif
+160608_PradesLeLez_5cm_L93_769_6288.tif
+160608_PradesLeLez_5cm_L93_769_6289.tif
+160608_PradesLeLez_5cm_L93_769_6290.tif
+160608_PradesLeLez_5cm_L93_770_6288.tif
+160608_PradesLeLez_5cm_L93_770_6289.tif
+160608_PradesLeLez_5cm_L93_770_6290.tif
