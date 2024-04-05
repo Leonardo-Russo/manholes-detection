@@ -1,4 +1,4 @@
-inference/
+inference/**/*.jpg
 140610_gigean_4cm_l93_vis.tif
 filtered_gigean.tif
 160608_PradesLeLez_5cm_L93_769_6288.tif
