@@ -1,0 +1,9 @@
+NOROOT = -1
+BACKGROUND = -9
+MAXSIZE = 20001
+CUTSIZE = 10000
+#REP = "../../../2016_PradesLeLez_AvionJaune/2_mosaiques/tif_tfw/vis/"
+#REP = "../../TESTS/DATA/"
+#REP = "/media/hydroscience/cbbb3e43-015d-4b07-bbd7-607fe2319837/2016_PradesLeLez_AvionJaune/2_mosaiques/tif_tfw/vis/"
+#REP = "/Users/cdelenne/Documents/_DONNEES/Gigean/2015AvionJaune_Gigean/Georef/"
+REP = "/Users/cdelenne/Documents/_DONNEES/MontpellierEtEnviron/"
